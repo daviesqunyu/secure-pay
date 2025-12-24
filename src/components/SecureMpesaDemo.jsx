@@ -433,7 +433,10 @@ const SecureMpesaDemo = () => {
                   <div className="text-gray-600">Track your spending</div>
                 </div>
               </div>
-              <button className="w-full mt-3 bg-gradient-to-r from-green-600 to-emerald-600 text-white py-2 rounded-lg font-semibold text-sm hover:from-green-700 hover:to-emerald-700 transition-all">
+              <button
+                onClick={() => window.open('./premium.html', '_blank')}
+                className="w-full mt-3 bg-gradient-to-r from-green-600 to-emerald-600 text-white py-2 rounded-lg font-semibold text-sm hover:from-green-700 hover:to-emerald-700 transition-all"
+              >
                 Upgrade to Premium
               </button>
             </div>
