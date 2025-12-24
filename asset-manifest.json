@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/secure-pay/static/css/main.6edd1648.css",
+    "main.css": "/secure-pay/static/css/main.410f8163.css",
     "main.js": "/secure-pay/static/js/main.3a13cd4b.js",
     "static/js/453.77253baa.chunk.js": "/secure-pay/static/js/453.77253baa.chunk.js",
     "index.html": "/secure-pay/index.html",
-    "main.6edd1648.css.map": "/secure-pay/static/css/main.6edd1648.css.map",
+    "main.410f8163.css.map": "/secure-pay/static/css/main.410f8163.css.map",
     "main.3a13cd4b.js.map": "/secure-pay/static/js/main.3a13cd4b.js.map",
     "453.77253baa.chunk.js.map": "/secure-pay/static/js/453.77253baa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6edd1648.css",
+    "static/css/main.410f8163.css",
     "static/js/main.3a13cd4b.js"
   ]
 }
